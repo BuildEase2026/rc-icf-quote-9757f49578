@@ -1,0 +1,139 @@
+{
+ "job": "Redcatch Quarter, Knowle, Bristol",
+ "revision": "",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Footings",
+   "desc": "Stepped Nudura ICF footing course under every block on the strip footings (by others), the ground-floor slabs (by others) and the site levels.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 816408
+    },
+    {
+     "glb": "stage-1-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 118796
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF, windows and doors",
+   "desc": "Ground-floor ICF walls: 6in XR35 external walls and 6in Standard party walls, end caps and lintels at the openings, windows and doors.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 4920156
+    },
+    {
+     "glb": "stage-2-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 592304
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor and stairs",
+   "desc": "First-floor structure and the stairs from the ground floor (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 1229576
+    },
+    {
+     "glb": "stage-3-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 37052
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF, windows",
+   "desc": "First-floor ICF walls with the end caps and lintels, windows.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 5168436
+    },
+    {
+     "glb": "stage-4-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 610972
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Second floor and stairs",
+   "desc": "Second-floor structure and the stairs from the first floor (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 1252204
+    },
+    {
+     "glb": "stage-5-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 36280
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Second-floor ICF, balcony and gables",
+   "desc": "Second-floor ICF walls set back 1,500 at the rear balcony, the raked party and gable fins, the XR35 parapet, the gables to the roof line, windows and balcony doors (railing by others).",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 6969948
+    },
+    {
+     "glb": "stage-6-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 750320
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Roof",
+   "desc": "Roof structure and covering (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 729036
+    },
+    {
+     "glb": "stage-7-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 25344
+    }
+   ]
+  }
+ ]
+}

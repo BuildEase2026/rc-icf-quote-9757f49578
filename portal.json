@@ -1,0 +1,451 @@
+{
+ "portal": "BuildEase ICF Project Environment",
+ "project": {
+  "client": "Cuckfield Real Estate Ltd",
+  "job": "Redcatch Quarter, Knowle, Bristol",
+  "number_prefix": "ES26-064",
+  "status": "QUOTATION",
+  "revision": "",
+  "model_title": "ES26-064 Redcatch Quarter, Knowle, Bristol - Quotation"
+ },
+ "default_view": "stage-7",
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Footings",
+   "desc": "Stepped Nudura ICF footing course under every block on the strip footings (by others), the ground-floor slabs (by others) and the site levels.",
+   "focus": false
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground-floor ICF, windows and doors",
+   "desc": "Ground-floor ICF walls: 6in XR35 external walls and 6in Standard party walls, end caps and lintels at the openings, windows and doors.",
+   "focus": false
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor and stairs",
+   "desc": "First-floor structure and the stairs from the ground floor (indicative, by others).",
+   "focus": false
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "First-floor ICF, windows",
+   "desc": "First-floor ICF walls with the end caps and lintels, windows.",
+   "focus": false
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Second floor and stairs",
+   "desc": "Second-floor structure and the stairs from the first floor (indicative, by others).",
+   "focus": false
+  },
+  {
+   "id": "stage-6",
+   "kind": "stage",
+   "n": 6,
+   "title": "Second-floor ICF, balcony and gables",
+   "desc": "Second-floor ICF walls set back 1,500 at the rear balcony, the raked party and gable fins, the XR35 parapet, the gables to the roof line, windows and balcony doors (railing by others).",
+   "focus": false
+  },
+  {
+   "id": "stage-7",
+   "kind": "stage",
+   "n": 7,
+   "title": "Roof",
+   "desc": "Roof structure and covering (indicative, by others).",
+   "focus": false
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 7,
+   "title": "North elevation",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ],
+   "desc": "Complete structure seen from the north."
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 7,
+   "title": "South elevation",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ],
+   "desc": "Complete structure seen from the south."
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 7,
+   "title": "East elevation",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the east."
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 7,
+   "title": "West elevation",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ],
+   "desc": "Complete structure seen from the west."
+  }
+ ],
+ "stages": [
+  {
+   "n": 1,
+   "title": "Footings",
+   "desc": "Stepped Nudura ICF footing course under every block on the strip footings (by others), the ground-floor slabs (by others) and the site levels.",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 816408
+    },
+    {
+     "glb": "stage-1-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 118796
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground-floor ICF, windows and doors",
+   "desc": "Ground-floor ICF walls: 6in XR35 external walls and 6in Standard party walls, end caps and lintels at the openings, windows and doors.",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 4920156
+    },
+    {
+     "glb": "stage-2-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 592304
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor and stairs",
+   "desc": "First-floor structure and the stairs from the ground floor (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 1229576
+    },
+    {
+     "glb": "stage-3-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 37052
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First-floor ICF, windows",
+   "desc": "First-floor ICF walls with the end caps and lintels, windows.",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 5168436
+    },
+    {
+     "glb": "stage-4-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 610972
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Second floor and stairs",
+   "desc": "Second-floor structure and the stairs from the first floor (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 1252204
+    },
+    {
+     "glb": "stage-5-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 36280
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Second-floor ICF, balcony and gables",
+   "desc": "Second-floor ICF walls set back 1,500 at the rear balcony, the raked party and gable fins, the XR35 parapet, the gables to the roof line, windows and balcony doors (railing by others).",
+   "files": [
+    {
+     "glb": "stage-6.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 6969948
+    },
+    {
+     "glb": "stage-6-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 750320
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Roof",
+   "desc": "Roof structure and covering (indicative, by others).",
+   "files": [
+    {
+     "glb": "stage-7.glb",
+     "part": "site",
+     "label": "Site - 7 blocks",
+     "bytes": 729036
+    },
+    {
+     "glb": "stage-7-house.glb",
+     "part": "house",
+     "label": "House type (pair)",
+     "bytes": 25344
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "quote",
+   "title": "Quotation",
+   "note": "The Nudura proposal, the artic load plans and pallet stack sheets for every block, and the BOQ package (ICF bill, build programme and finishes bills; the Excel version has live rate columns).",
+   "zip": {
+    "file": "downloads/ES26-064 Quotation.zip",
+    "bytes": 5507996,
+    "count": 4
+   },
+   "docs": [
+    {
+     "id": "ES26-064-LP-01",
+     "title": "Load plans - artic deliveries, all blocks",
+     "file": "docs/quote/ES26-064-LP-01 Load plans - artic deliveries, all blocks.pdf",
+     "pages": 65,
+     "thumb": "thumbs/ES26-064-LP-01.png",
+     "bytes": 341910,
+     "number": "ES26-064-LP-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-PR-01",
+     "title": "Nudura proposal",
+     "file": "docs/quote/ES26-064-PR-01 Nudura proposal.pdf",
+     "pages": 5,
+     "thumb": "thumbs/ES26-064-PR-01.png",
+     "bytes": 402358,
+     "number": "ES26-064-PR-01",
+     "view": "stage-7",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-PS-01",
+     "title": "Pallet stack sheets, all blocks",
+     "file": "docs/quote/ES26-064-PS-01 Pallet stack sheets, all blocks.pdf",
+     "pages": 526,
+     "thumb": "thumbs/ES26-064-PS-01.png",
+     "bytes": 5513504,
+     "number": "ES26-064-PS-01",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-XI-01",
+     "title": "BOQ package - ICF, programme and finishes (Excel)",
+     "file": "downloads/ES26-064 BOQ Package.xlsx",
+     "pages": 27,
+     "thumb": "thumbs/ES26-064-XI-01.png",
+     "bytes": 1661452,
+     "number": "ES26-064-XI-01",
+     "kind": "xlsx",
+     "preview": "xls/boq.html",
+     "tabs": 27,
+     "subtitle": "Excel workbook - live preview, enter rates"
+    }
+   ],
+   "downloads": [
+    {
+     "file": "downloads/ES26-064 BOQ Package.xlsx",
+     "title": "BOQ package - ICF, programme and finishes (Excel, live rates) (0.5 MB)"
+    }
+   ]
+  },
+  {
+   "id": "site",
+   "title": "Site and foundations",
+   "note": "The site plan with the 7 blocks, plot numbers and assumed floor levels, and the stepped ICF foundation schedule for each block.",
+   "zip": {
+    "file": "downloads/ES26-064 Site and foundations.zip",
+    "bytes": 2557681,
+    "count": 2
+   },
+   "docs": [
+    {
+     "id": "ES26-064-FD-01",
+     "title": "Stepped Foundation ICF Schedule",
+     "file": "docs/site/ES26-064-FD-01 Stepped Foundation ICF Schedule.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-FD-01.png",
+     "bytes": 62394,
+     "number": "ES26-064-FD-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-SP-01",
+     "title": "Site Plan - Blocks, Plots and Floor Levels",
+     "file": "docs/site/ES26-064-SP-01 Site Plan - Blocks, Plots and Floor Levels.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-SP-01.png",
+     "bytes": 3171106,
+     "number": "ES26-064-SP-01",
+     "view": "stage-7",
+     "view_opts": {}
+    }
+   ]
+  },
+  {
+   "id": "house",
+   "title": "House type - 3-storey 3B5P terraced house",
+   "note": "The house type as a pair of houses with gable ends: ICF general arrangements for the foundation, ground, first and second floors, elevations and a section. Mid-terrace houses repeat the party-wall arrangement.",
+   "zip": {
+    "file": "downloads/ES26-064 House type - 3-storey 3B5P terraced house.zip",
+    "bytes": 419864,
+    "count": 7
+   },
+   "docs": [
+    {
+     "id": "ES26-064-GA-01",
+     "title": "Footing course ICF General Arrangement",
+     "file": "docs/house/ES26-064-GA-01 Footing course ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-GA-01.png",
+     "bytes": 55394,
+     "number": "ES26-064-GA-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-GA-02",
+     "title": "Ground Floor ICF General Arrangement",
+     "file": "docs/house/ES26-064-GA-02 Ground Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-GA-02.png",
+     "bytes": 58653,
+     "number": "ES26-064-GA-02",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-GA-03",
+     "title": "First Floor ICF General Arrangement",
+     "file": "docs/house/ES26-064-GA-03 First Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-GA-03.png",
+     "bytes": 58188,
+     "number": "ES26-064-GA-03",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-GA-04",
+     "title": "Second Floor ICF General Arrangement",
+     "file": "docs/house/ES26-064-GA-04 Second Floor ICF General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-GA-04.png",
+     "bytes": 59952,
+     "number": "ES26-064-GA-04",
+     "view": "stage-6",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-EL-01",
+     "title": "North and South Elevations",
+     "file": "docs/house/ES26-064-EL-01 North and South Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-EL-01.png",
+     "bytes": 118503,
+     "number": "ES26-064-EL-01",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-EL-02",
+     "title": "East and West Elevations",
+     "file": "docs/house/ES26-064-EL-02 East and West Elevations.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-EL-02.png",
+     "bytes": 106474,
+     "number": "ES26-064-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "ES26-064-SE-01",
+     "title": "Section A-A",
+     "file": "docs/house/ES26-064-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/ES26-064-SE-01.png",
+     "bytes": 67414,
+     "number": "ES26-064-SE-01",
+     "view": "stage-7",
+     "view_opts": {}
+    }
+   ]
+  }
+ ],
+ "focus": null,
+ "isolate_stages": false,
+ "toggles": [],
+ "download_all": {
+  "file": "downloads/ES26-064 Redcatch Quarter, Knowle, Bristol - Quotation.zip",
+  "bytes": 8661477,
+  "count": 14,
+  "title": "Download everything"
+ }
+}
